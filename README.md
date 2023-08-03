@@ -1,2 +1,2 @@
 # FlappyBird
-2 Projects that revolves around the game "Flappy Bird" the first program where an AI  is playing it using the NEAT module and the other where the  player is the one playing
+These are two projects centered around the game 'Flappy Bird.' One involves an AI playing the game using NEAT, while the other lets a human player control the game.
