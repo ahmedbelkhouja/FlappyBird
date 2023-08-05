@@ -266,7 +266,7 @@ def main():
                 game_over = True
             
             
-        
+        base.move()
         win.fill((0, 0, 0))
         
         if game_over:
